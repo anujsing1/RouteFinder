@@ -1,0 +1,18 @@
+.center {
+    margin: auto;
+    width: 75%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+.header {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.container table {
+    border: 1px solid red;
+}
